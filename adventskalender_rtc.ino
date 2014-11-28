@@ -1,6 +1,6 @@
 // Audio Advent Calendar 
 // (c) by Mischka 2011 (ebert.micha@web.de)
-// Licensed under Creative Commons-Attribution-Share Alike
+// Licensed under CC0
 // feel free to optimize and modify the code, please share your
 // mods on the internet and send me a mail with the link
 
