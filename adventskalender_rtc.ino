@@ -167,10 +167,11 @@ void setup() {
 void loop() {
   
       DateTime now = rtc.now();
+      Serial.println(now.day());                  //tells the day via serial out
       if (now.day() < 25){
         if (now.month() == 12){
           
-        Serial.println(now.day());                  //tells the day via serial out
+        
         Serial.print("playing track ");
         Serial.println(fileName[now.day()]);
         
